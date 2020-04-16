@@ -1,0 +1,18 @@
+.videoSnippet {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+    /* justify-content: center !important; */
+    /* flex-direction: column !important; */
+}
+
+.videoImage {
+    /* width: 100%; */
+    /* margin-right: 20px; */
+    /* height: auto; */
+}
+
+.videoTitle {
+    /* text-align: left !important; */
+    /* padding-left: 5px !important; */
+}
